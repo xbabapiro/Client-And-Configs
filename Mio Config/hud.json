@@ -1,0 +1,317 @@
+{
+  "Armor": {
+    "enabled": true,
+    "settings": {
+      "Durability": true,
+      "Percentage": true,
+      "BarColor": true
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 0,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Chat": {
+    "enabled": false,
+    "settings": {},
+    "hud": {
+      "anchor": "none",
+      "index": 1,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Crypto": {
+    "enabled": false,
+    "settings": {
+      "Coin": "BTC",
+      "Fiat": "USD"
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 2,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Direction": {
+    "enabled": false,
+    "settings": {},
+    "hud": {
+      "anchor": "bottom_left",
+      "index": 0
+    }
+  },
+  "Effects": {
+    "enabled": false,
+    "settings": {
+      "Vanilla": false,
+      "Selection": "Any",
+      "WhiteList": []
+    },
+    "hud": {
+      "anchor": "bottom_right",
+      "index": 0
+    }
+  },
+  "EntityList": {
+    "enabled": false,
+    "settings": {
+      "WhiteList": [
+        "player"
+      ],
+      "Items": [
+        "obsidian"
+      ],
+      "Selection": "BlackList",
+      "ItemSelection": "Any",
+      "Sorting": "Alphabet",
+      "CustomNames": true,
+      "ColoredCount": true
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 3,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Graph": {
+    "enabled": false,
+    "settings": {
+      "Ceil": 26.0,
+      "Height": 30,
+      "Width": 100
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 4,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Inventory": {
+    "enabled": true,
+    "settings": {
+      "Background": {
+        "rgba": [
+          10,
+          10,
+          10,
+          50
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          10,
+          10,
+          10,
+          100
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "HideEmpty": true,
+      "Size": 1.0
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 8,
+      "x": 0.015625,
+      "y": 0.26296297
+    }
+  },
+  "Lag\u0027O\u0027Meter": {
+    "enabled": false,
+    "settings": {
+      "Color": {
+        "rgba": [
+          128,
+          128,
+          128,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 5,
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "Map": {
+    "enabled": true,
+    "settings": {
+      "Pointer": "Arrow",
+      "Width": 76.0,
+      "Height": 76.0,
+      "PointerColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Background": {
+        "rgba": [
+          10,
+          10,
+          10,
+          50
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          10,
+          10,
+          10,
+          100
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Size": 1.0
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 10,
+      "x": 0.78125,
+      "y": 0.85925925
+    }
+  },
+  "Metrics": {
+    "enabled": true,
+    "settings": {
+      "Speed": true,
+      "BPS": false,
+      "TPS": true,
+      "Ping": true,
+      "FPS": true,
+      "ServerBrand": true,
+      "Durability": false,
+      "Chest": false,
+      "Double": false
+    },
+    "hud": {
+      "anchor": "bottom_right",
+      "index": 1
+    }
+  },
+  "ModuleList": {
+    "enabled": false,
+    "settings": {
+      "OnlyBound": false,
+      "Sort": "Length"
+    },
+    "hud": {
+      "anchor": "top_right",
+      "index": 0
+    }
+  },
+  "Music": {
+    "enabled": false,
+    "settings": {},
+    "hud": {
+      "anchor": "none",
+      "index": 7,
+      "x": 0.51979166,
+      "y": 0.40555555
+    }
+  },
+  "PlayerModel": {
+    "enabled": false,
+    "settings": {
+      "Size": 0.9
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 9,
+      "x": 0.08020833,
+      "y": 0.094444446
+    }
+  },
+  "Position": {
+    "enabled": false,
+    "settings": {
+      "SafeRange": 0.0,
+      "Nether": true,
+      "Fake": false
+    },
+    "hud": {
+      "anchor": "bottom_left",
+      "index": 1
+    }
+  },
+  "TextRadar": {
+    "enabled": true,
+    "settings": {
+      "Sort": "Distance",
+      "Health": true,
+      "Distance": true,
+      "TotemPops": true,
+      "FriendColor": true,
+      "EnemyColor": true,
+      "Armor": true,
+      "Limit": false,
+      "Max": 8,
+      "Friends": false,
+      "Nakeds": false
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 12,
+      "x": 0.29375,
+      "y": 0.31111112
+    }
+  },
+  "Totems": {
+    "enabled": true,
+    "settings": {
+      "White": false
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 6,
+      "x": 0.503125,
+      "y": 0.5074074
+    }
+  },
+  "Watermark": {
+    "enabled": true,
+    "settings": {
+      "VersionColor": false,
+      "Text": "NİGTHDUST"
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 13,
+      "x": 0.7,
+      "y": 0.011111111
+    }
+  },
+  "Welcomer": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Name",
+      "Text": "Welcome to Mio."
+    },
+    "hud": {
+      "anchor": "none",
+      "index": 11,
+      "x": 0.07604167,
+      "y": 0.107407406
+    }
+  }
+}

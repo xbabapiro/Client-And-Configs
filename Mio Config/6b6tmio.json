@@ -1,0 +1,2422 @@
+{
+  "client": "mio-fabric",
+  "category": "modules",
+  "Ambience": {
+    "enabled": true,
+    "settings": {
+      "Brightness": "Gamma",
+      "LightLevel": 14,
+      "WorldTime": true,
+      "Sync": false,
+      "Time": 24.0,
+      "WorldWeather": false,
+      "Weather": "Clear",
+      "Force": true,
+      "Amount": 1.0
+    }
+  },
+  "AnchorAura": {
+    "enabled": false,
+    "settings": {
+      "Delay": 0,
+      "Range": 5.0,
+      "WallRange": 6.0,
+      "TargetRange": 14.0,
+      "MinDamage": 6.0,
+      "MaxSelfDamage": 12.0,
+      "AntiSuicide": false,
+      "Rotate": false,
+      "StrictDirection": false,
+      "AirPlace": true,
+      "LiquidPlace": false,
+      "Inhibit": true,
+      "Sequential": true,
+      "Render": true,
+      "Fade": true,
+      "FadeTime": 1.0,
+      "Mining": false,
+      "Eating": true,
+      "Health": 0.0
+    }
+  },
+  "Animations": {
+    "enabled": false,
+    "settings": {
+      "Crystals": false,
+      "FloatFactor": 0.0,
+      "RotationSpeed": 1.0,
+      "CrystalScale": 1.0,
+      "Inner": true,
+      "Outer": true,
+      "Core": true,
+      "Bottom": true,
+      "Players": true,
+      "Static": true,
+      "Sneak": true,
+      "PlayerScale": 1.0
+    }
+  },
+  "Announcer": {
+    "enabled": true,
+    "settings": {
+      "ClientSide": true,
+      "Compact": false,
+      "Joins": true,
+      "Friends": true,
+      "Enemies": true,
+      "Others": true,
+      "Move": false,
+      "Break": false,
+      "Eat": false,
+      "Delay": 3.1
+    }
+  },
+  "AntiAFK": {
+    "enabled": false,
+    "settings": {
+      "Delay": 60.0,
+      "AutoReply": true,
+      "Jump": false,
+      "Sneak": false,
+      "Rotate": false,
+      "Attack": false,
+      "OnlySwing": false
+    }
+  },
+  "AntiAim": {
+    "enabled": false,
+    "settings": {
+      "Yaw": true,
+      "YawMode": "Spin",
+      "Speed": 90.0,
+      "Static": 0.0,
+      "Flip": 0.0,
+      "JitterRange": 0.0,
+      "Base": 0.0,
+      "Pitch": true,
+      "PitchMode": "Static",
+      "Enderman": false,
+      "Look": "Avoid"
+    }
+  },
+  "AntiBot": {
+    "enabled": false,
+    "settings": {
+      "IllegalChars": false,
+      "IllegalNames": false
+    }
+  },
+  "AntiCheat": {
+    "enabled": true,
+    "settings": {
+      "2b2t": false,
+      "YawStep": 0.6,
+      "MovementSync": false,
+      "Rotations": "Silent",
+      "StrictDirection": "NCP"
+    }
+  },
+  "AntiCyrillic": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Chat"
+    }
+  },
+  "AntiHunger": {
+    "enabled": false
+  },
+  "AntiLevitation": {
+    "enabled": false
+  },
+  "AntiPhase": {
+    "enabled": false,
+    "settings": {
+      "Material": "Ladder",
+      "Range": 4.5,
+      "Delay": 36,
+      "BPT": 4,
+      "StrictDirection": false,
+      "Rotate": true,
+      "NoCrawl": false,
+      "Render": false,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "AntiQuit": {
+    "enabled": false,
+    "settings": {
+      "Disconnect": false,
+      "GameClose": false
+    }
+  },
+  "AntiSpam": {
+    "enabled": true,
+    "settings": {
+      "Indicator": true,
+      "Links": false
+    }
+  },
+  "AntiVanish": {
+    "enabled": false,
+    "settings": {
+      "Notify": false
+    }
+  },
+  "AntiVoid": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Cancel",
+      "Height": 5,
+      "ForceGround": false
+    }
+  },
+  "AnvilAura": {
+    "enabled": false,
+    "settings": {
+      "Delay": 50,
+      "BPT": 6,
+      "AirPlace": false,
+      "StrictDirection": true,
+      "Raytrace": false,
+      "Rotate": true,
+      "TargetRange": 5.0,
+      "IgnoreNakeds": false,
+      "Attack": true,
+      "Jump": true,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": false,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "Arrows": {
+    "enabled": false,
+    "settings": {
+      "AutoShoot": false,
+      "Fov": 20.0,
+      "AssumeDuration": 50
+    }
+  },
+  "Aura": {
+    "enabled": true,
+    "settings": {
+      "Sorting": "Crosshair",
+      "Fov": 180.0,
+      "Delay": 1.0,
+      "Range": 4.5,
+      "WallRange": 4.5,
+      "TPSSync": true,
+      "PauseBaritone": false,
+      "Rotate": true,
+      "Limit": 0.8,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Weapon": "Require",
+      "Swap": "Normal",
+      "Mace": "Density",
+      "LagBack": false,
+      "PauseEating": false,
+      "Players": true,
+      "IgnoreNakeds": false,
+      "Animals": false,
+      "Hostiles": true,
+      "Neutrals": true,
+      "Crystals": false,
+      "Projectiles": false,
+      "IgnoreNamed": false
+    }
+  },
+  "AutoArmor": {
+    "enabled": true,
+    "settings": {
+      "Delay": 100,
+      "BindingCurse": false,
+      "Blast": true,
+      "Thorns": false,
+      "Elytra": true,
+      "TurtleShell": true,
+      "NoHelmet": false,
+      "OnlySafe": false,
+      "Safe": true,
+      "SafeAmount": 3,
+      "InRange": false,
+      "Range": 8.0,
+      "AllowFriends": true
+    }
+  },
+  "AutoBowRelease": {
+    "enabled": false,
+    "settings": {
+      "Delay": 2
+    }
+  },
+  "AutoBreed": {
+    "enabled": false,
+    "settings": {
+      "Range": 3.0,
+      "Frequency": 1,
+      "Delay": 0.1,
+      "Rotate": true,
+      "Dogs": true,
+      "Cats": true,
+      "Parrots": true,
+      "Donkeys": true,
+      "Horses": true,
+      "Others": true
+    }
+  },
+  "AutoClicker": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Left",
+      "CPS": 8,
+      "Delay": 1.0,
+      "FriendProtect": true
+    }
+  },
+  "AutoCraft": {
+    "enabled": false,
+    "settings": {
+      "Items": [
+        "gold_block",
+        "cyan_bed",
+        "pink_bed",
+        "gold_ingot"
+      ],
+      "RecipeBlackList": [
+        "gold_block"
+      ],
+      "Delay": 75,
+      "Frequency": 1,
+      "Drop": "None",
+      "CraftAll": false,
+      "FastClose": false,
+      "AutoOpen": false,
+      "Range": 5.0,
+      "Raytrace": true,
+      "StrictDirection": false,
+      "Rotate": false,
+      "Limit": false,
+      "Max": 64,
+      "StackLimit": false
+    }
+  },
+  "AutoCrystal": {
+    "enabled": true,
+    "settings": {
+      "Place": true,
+      "PlaceDelay": 0,
+      "PlaceRange": 4.3,
+      "PlaceWallRange": 4.3,
+      "MinPlaceDamage": 4.0,
+      "MaxSelfPlace": 12.0,
+      "DamageRatio": 1.5,
+      "Sequential": "Strict",
+      "1.12": false,
+      "StrictDirection": true,
+      "MineIgnore": false,
+      "Limit": false,
+      "LowerHitBox": false,
+      "SmartTrace": false,
+      "BasePlace": true,
+      "Air": true,
+      "Break": true,
+      "HitDelay": 0,
+      "HitFactor": 1,
+      "BreakRange": 3.9,
+      "BreakWallRange": 3.9,
+      "MinBreakDamage": 3.5,
+      "MaxSelfHit": 12.0,
+      "AntiSuicide": false,
+      "Balance": true,
+      "Resync": false,
+      "Inhibit": true,
+      "Instant": "Always",
+      "Await": false,
+      "TicksExisted": 0,
+      "Weakness": "Silent",
+      "Rotate": true,
+      "PlaceRotate": true,
+      "BreakRotate": true,
+      "FacePlace": true,
+      "FacePlaceHealth": 36.0,
+      "FacePlaceArmor": 100,
+      "DamageSync": true,
+      "ExtraTicks": true,
+      "Ticks": 0,
+      "Draw": true,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "MultiFade": false,
+      "FadeTime": 0.5,
+      "Mining": false,
+      "Eating": true,
+      "Health": 0.0,
+      "TargetRange": 16.0,
+      "CrystalRange": 7.0,
+      "AntiFriendKill": false,
+      "ForceSuicide": false,
+      "IgnoreNakeds": true,
+      "AssumeBestArmor": true,
+      "AssumeInvincibility": true,
+      "Self": true,
+      "InvincTimeout": 2.5,
+      "AutoSwap": "Silent",
+      "Silent": "Normal",
+      "SwapBack": false,
+      "StrictTiming": false,
+      "SwapDelay": 0.5,
+      "SwapPenalty": 0.0,
+      "Multipoint": "Fast",
+      "HBFix": true
+    }
+  },
+  "AutoEat": {
+    "enabled": false,
+    "settings": {
+      "Health": 0,
+      "Hunger": 14,
+      "PauseBaritone": false,
+      "AutoSwap": true,
+      "Sort": "Hunger",
+      "SwapBack": true,
+      "AutoEscape": true,
+      "AutoDisable": true
+    }
+  },
+  "AutoExp": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Silent",
+      "Delay": 0,
+      "Frequency": 2,
+      "Rotate": false,
+      "Air": false,
+      "Stop": true,
+      "StopAt": 100,
+      "AutoDisable": false,
+      "Tools": true
+    }
+  },
+  "AutoFarm": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Sphere",
+      "Range": 3.0,
+      "BPT": 1,
+      "Place": true,
+      "Rotate": false,
+      "Fertilize": false,
+      "Remove": true,
+      "RemoveDelay": 0.1,
+      "OnlyGrown": true,
+      "Wheat": true,
+      "Carrots": true,
+      "Potatoes": true,
+      "BeetRoots": false,
+      "SugarCane": false,
+      "Trees": false
+    }
+  },
+  "AutoFish": {
+    "enabled": false,
+    "settings": {
+      "CastDelay": 1.0
+    }
+  },
+  "AutoLog": {
+    "enabled": false,
+    "settings": {
+      "Health": 8,
+      "InvincTimeout": 0.0,
+      "AutoDisable": true,
+      "GearedOnly": false,
+      "UnfocusedOnly": false,
+      "OnRender": false,
+      "Crystal": false,
+      "TNTMinecart": false,
+      "Totems": false,
+      "TotemCount": 1,
+      "Elytra": false,
+      "Durability": 5,
+      "AssumeInventory": false,
+      "YLevel": false,
+      "Y": 64.0
+    }
+  },
+  "AutoMine": {
+    "enabled": true,
+    "settings": {
+      "Logic": "Plain",
+      "StrictDirection": false,
+      "Raytrace": false,
+      "Rotate": true,
+      "IgnoreNaked": true,
+      "EnderChests": false,
+      "Burrow": true,
+      "Fish": true,
+      "Head": false,
+      "TrapOverride": false,
+      "Feet": true,
+      "Safe": false,
+      "Self": false,
+      "Face": true,
+      "OnlyCrawl": false,
+      "DownPriority": false,
+      "GrimDelay": 4
+    }
+  },
+  "AutoMount": {
+    "enabled": false,
+    "settings": {
+      "Range": 3.0,
+      "Delay": 1.0,
+      "Rotate": true
+    }
+  },
+  "AutoNameTag": {
+    "enabled": false,
+    "settings": {
+      "Mode": "WhiteList",
+      "Whitelist": [],
+      "Range": 6.0,
+      "Frequency": 1,
+      "Delay": 1.1,
+      "Rotate": true,
+      "Swap": "Silent"
+    }
+  },
+  "AutoReconnect": {
+    "enabled": true,
+    "settings": {
+      "Delay": 5.0
+    }
+  },
+  "AutoRespawn": {
+    "enabled": true
+  },
+  "AutoSign": {
+    "enabled": false,
+    "settings": {
+      "Line1": "buy mioclient",
+      "Line2": "at",
+      "Line3": "www.mioclient.me",
+      "Line4": ":p"
+    }
+  },
+  "AutoTame": {
+    "enabled": false,
+    "settings": {
+      "Action": "Tame",
+      "Range": 3.0,
+      "Frequency": 1,
+      "Delay": 0.5,
+      "Rotate": true,
+      "Dogs": true,
+      "Cats": true,
+      "Parrots": true
+    }
+  },
+  "AutoTool": {
+    "enabled": false,
+    "settings": {
+      "SwapBack": true
+    }
+  },
+  "AutoTrap": {
+    "enabled": false,
+    "settings": {
+      "Delay": 0,
+      "BPT": 4,
+      "AirPlace": false,
+      "StrictDirection": false,
+      "Raytrace": false,
+      "Rotate": true,
+      "Range": 5.0,
+      "Sequential": true,
+      "Head": true,
+      "Face": true,
+      "Legs": true,
+      "AntiStep": true,
+      "IgnoreNakeds": false,
+      "OnlyObby": false,
+      "Attack": true,
+      "Jump": false,
+      "Chorus": false,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 0.6
+    }
+  },
+  "AutoUpgrade": {
+    "enabled": false,
+    "settings": {
+      "Items": "Tools",
+      "Delay": 60,
+      "Safe": true
+    }
+  },
+  "AutoWalk": {
+    "enabled": false,
+    "settings": {
+      "AutoJump": false,
+      "StuckNotify": true,
+      "Sound": {
+        "name": "warning",
+        "category": "system"
+      },
+      "Volume": 1.0
+    }
+  },
+  "Baritone": {
+    "enabled": true,
+    "settings": {
+      "FreeLook": true,
+      "LogOnArrival": false,
+      "AssumeEnabled": false,
+      "CensorCoords": false,
+      "ReplaceColors": true
+    }
+  },
+  "BedAura": {
+    "enabled": false,
+    "settings": {
+      "Place": true,
+      "PlaceDelay": 1,
+      "PlaceRange": 4.0,
+      "StrictDirection": true,
+      "Rotate": true,
+      "LiquidPlace": false,
+      "AirPlace": false,
+      "Break": true,
+      "BreakDelay": 10,
+      "BreakRange": 4.0,
+      "TPSSync": true,
+      "Instant": true,
+      "Extrapolation": false,
+      "Ticks": 3,
+      "Refill": true,
+      "Slot": 7,
+      "Render": false,
+      "Fade": true,
+      "FadeTime": 1.0,
+      "MinDamage": 6.0,
+      "MaxSelfDamage": 10.0,
+      "AntiSucide": true
+    }
+  },
+  "BetterChat": {
+    "enabled": true,
+    "settings": {
+      "Timestamps": false,
+      "OnlyServer": false,
+      "Format": "Minutes",
+      "Rainbow": false,
+      "RainbowAmount": 100,
+      "LeftBracket": "\u003c",
+      "RightBracket": "\u003e",
+      "MentionSound": false,
+      "SoundMode": {
+        "name": "css",
+        "category": "system"
+      },
+      "Volume": 1.0,
+      "Animation": true,
+      "Type": "Horizontal",
+      "Speed": 0.6,
+      "Alpha": 250,
+      "Always": false,
+      "CustomSuffix": false,
+      "Suffix": "| dallas harrison pedo",
+      "Highlight": false,
+      "LongChatHistory": true,
+      "NoReset": false
+    }
+  },
+  "BlockMixer": {
+    "enabled": false
+  },
+  "Blocker": {
+    "enabled": true,
+    "settings": {
+      "Delay": 50,
+      "BPT": 4,
+      "AirPlace": false,
+      "StrictDirection": true,
+      "Raytrace": false,
+      "Rotate": true,
+      "Offsets": "Surround",
+      "Corners": false,
+      "BlockDamage": 0.8,
+      "Attack": true,
+      "Jump": false,
+      "Chorus": false,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "Blur": {
+    "enabled": false,
+    "settings": {
+      "Radius": 6
+    }
+  },
+  "Borders": {
+    "enabled": false,
+    "settings": {
+      "LineWidth": 1.0,
+      "MapSize": 0,
+      "Level": -1
+    }
+  },
+  "BowAim": {
+    "enabled": false,
+    "settings": {
+      "Players": true,
+      "IgnoreNakeds": false,
+      "Animals": false,
+      "Hostiles": true,
+      "Neutrals": false
+    }
+  },
+  "BreakHighlight": {
+    "enabled": true,
+    "settings": {
+      "Range": 25.0,
+      "Friends": false,
+      "EnemyColor": false
+    }
+  },
+  "Chams": {
+    "enabled": false,
+    "settings": {
+      "Range": 50,
+      "Fade": true,
+      "FadeRadius": 50,
+      "LineWidth": 1.5,
+      "ExtraLayer": true,
+      "Model": true,
+      "XQZ": true,
+      "Opacity": 100,
+      "Shine": false,
+      "Speed": 0.5,
+      "Strength": 1.0,
+      "Progress": 0,
+      "Animals": "Off",
+      "Hostiles": "Off",
+      "Players": "Both",
+      "Self": "Off",
+      "Crystals": "Both",
+      "Pop": true,
+      "Death": true,
+      "PopMode": "Both",
+      "Animate": true,
+      "Boost": true,
+      "Time": 1.5,
+      "Motion": 1.8,
+      "Friends": false
+    }
+  },
+  "ChatFilter": {
+    "enabled": false,
+    "settings": {
+      "CaseSensitive": false,
+      "IgnoreSelf": true
+    }
+  },
+  "ChestSearchBar": {
+    "enabled": false,
+    "settings": {
+      "HighlightFull": false
+    }
+  },
+  "ChestStealer": {
+    "enabled": true,
+    "settings": {
+      "Whitelist": [],
+      "Names": [],
+      "Mode": "Rekit",
+      "Select": "Any",
+      "LookFor": "Item",
+      "SearchBarSync": false,
+      "OnlyFull": false,
+      "OnlyButtons": false,
+      "Animate": true,
+      "Delay": 150,
+      "Timeout": 100,
+      "Frequency": 1
+    }
+  },
+  "ChorusControl": {
+    "enabled": false,
+    "settings": {
+      "Yaw": "Keep",
+      "Smart": false,
+      "Range": 5.5,
+      "Render": true,
+      "LineWidth": 1.0
+    }
+  },
+  "Colors": {
+    "enabled": true,
+    "settings": {
+      "Scheme": "Normal"
+    }
+  },
+  "CoordLogger": {
+    "enabled": false,
+    "settings": {
+      "Log": true,
+      "Death": true
+    }
+  },
+  "Criticals": {
+    "enabled": true,
+    "settings": {
+      "Mode": "NCP",
+      "PauseOnMove": false
+    }
+  },
+  "Crosshair": {
+    "enabled": true,
+    "settings": {
+      "ThirdPerson": false,
+      "Dot": false,
+      "Shadow": false,
+      "Distance": 1,
+      "Dynamic": false,
+      "Smooth": true,
+      "Amplitude": 1.0,
+      "Gap": 0,
+      "Length": 1,
+      "Width": 1
+    }
+  },
+  "CustomDeathText": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Random",
+      "Message": "Uh oh."
+    }
+  },
+  "Discord": {
+    "enabled": false,
+    "settings": {
+      "UID": true,
+      "Server": false
+    }
+  },
+  "DiscordNotifs": {
+    "enabled": false,
+    "settings": {
+      "Timeout": 2.0,
+      "Timestamp": true,
+      "Queue": true,
+      "Disconnect": true,
+      "DM": true,
+      "ChatMessages": false,
+      "IgnoreMio": true
+    }
+  },
+  "ESP": {
+    "enabled": true,
+    "settings": {
+      "MobOwner": true,
+      "Light": false,
+      "Hostiles": false,
+      "Players": false,
+      "Animals": false,
+      "Pearls": false,
+      "Items": true,
+      "ItemsMode": "Text",
+      "ItemRange": 56,
+      "Group": false,
+      "Scale": 1.0,
+      "Exp": false,
+      "Chorus": true,
+      "Chests": false,
+      "EChests": false,
+      "Shulkers": false,
+      "Beds": false,
+      "Signs": false,
+      "Dispensers": false,
+      "Hoppers": false,
+      "Furnaces": false,
+      "Pots": false,
+      "LineWidth": 1.0
+    }
+  },
+  "ElytraFly": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Control",
+      "Takeoff": "Plain",
+      "Factorize": false,
+      "Always": false,
+      "NCPBoost": false,
+      "MinBoost": 0.05,
+      "VerticalBoost": 7,
+      "Limit": 500.0,
+      "AutoJump": false,
+      "InLava": false,
+      "LavaSpeed": 1.2,
+      "AutoBoost": false,
+      "MinY": 100,
+      "Add": 20,
+      "BoostPitch": 40.0,
+      "Speed": 2.4,
+      "Vertical": "Plain",
+      "VSpeed": 1.5,
+      "VPitch": 50.6,
+      "AntiKick": false,
+      "Glide": 0.0,
+      "SpoofPitch": false,
+      "Pitch": 2.0,
+      "AntiAfk": true,
+      "VerticalPacket": false,
+      "Accelerate": false,
+      "VerAccelMin": 0.2,
+      "AccelMin": 3.0,
+      "AccelTime": 1.7,
+      "Start": 1.8,
+      "StrictSpeed": 0.46,
+      "DeployTime": 50,
+      "PitchLock": true,
+      "Silent": true,
+      "BouncePitch": 90.0,
+      "Compensate": true,
+      "InfDurability": false,
+      "MuteElytra": false,
+      "GrimDurability": true
+    }
+  },
+  "EntityControl": {
+    "enabled": false,
+    "settings": {
+      "EntitySpeed": false,
+      "Speed": 0.15,
+      "NoCollision": false,
+      "Flight": true,
+      "Vertical": 10.0,
+      "Glide": false,
+      "Accelerate": false,
+      "CopyYaw": true,
+      "HorseJump": true
+    }
+  },
+  "ExtraScreenshot": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Copy",
+      "DeleteFile": false,
+      "Sound": false,
+      "Path": {
+        "name": "warning",
+        "category": "system"
+      },
+      "Volume": 1.0
+    }
+  },
+  "ExtraTab": {
+    "enabled": true,
+    "settings": {
+      "Latency": "Vanilla",
+      "Scale": 1.0,
+      "BetterSkin": true,
+      "Highlight": true,
+      "Social": true,
+      "Sort": false,
+      "Mode": "Alphabet",
+      "Reverse": false
+    }
+  },
+  "FakeLag": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Blink",
+      "Timeout": 1000,
+      "Movement": true,
+      "Interact": false,
+      "Swing": false,
+      "Swap": false,
+      "InteractEntity": false,
+      "Digging": false,
+      "All": false,
+      "AutoDisable": false,
+      "DisableTime": 0.3,
+      "Render": true,
+      "LineWidth": 1.0
+    }
+  },
+  "FakeVanilla": {
+    "enabled": false
+  },
+  "FastFall": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Strict",
+      "Height": 3.9,
+      "Speed": 2.3,
+      "StopInLiquids": true,
+      "OnlyHole": true,
+      "SafeDisable": false
+    }
+  },
+  "FastLadder": {
+    "enabled": false,
+    "settings": {
+      "Speed": 0.2
+    }
+  },
+  "FastLatency": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Alternative",
+      "Timeout": 0.5,
+      "FastResponse": false
+    }
+  },
+  "FastPlace": {
+    "enabled": true,
+    "settings": {
+      "Delay": 1,
+      "Exp": true,
+      "Rockets": false,
+      "Blocks": false,
+      "EnderChests": true,
+      "All": false,
+      "AutoPlace": false
+    }
+  },
+  "FastProjectile": {
+    "enabled": false,
+    "settings": {
+      "Packets": 32,
+      "ChargeDelay": 2.0,
+      "Bows": true,
+      "Tridents": true,
+      "EnderPearls": false,
+      "Snowballs": false,
+      "Eggs": false,
+      "Crossbows": false
+    }
+  },
+  "FastSwim": {
+    "enabled": false,
+    "settings": {
+      "Water": false,
+      "WaterSpeed": 2.0,
+      "Lava": true,
+      "LavaSpeed": 1.5,
+      "Vertical": true,
+      "VSpeed": 1.0,
+      "Glide": 0.05,
+      "Accelerate": true,
+      "AccelMin": 0.2,
+      "AccelTime": 1.0
+    }
+  },
+  "FastWeb": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Plain",
+      "Horizontal": true,
+      "Speed": 1.4,
+      "Vertical": true,
+      "VSpeed": 1.4,
+      "Upwards": true
+    }
+  },
+  "FeetPlace": {
+    "enabled": false,
+    "settings": {
+      "Delay": 0,
+      "BPT": 8,
+      "AirPlace": false,
+      "StrictDirection": false,
+      "Raytrace": false,
+      "Rotate": true,
+      "Sequential": false,
+      "Center": false,
+      "Flatten": false,
+      "OnlyObby": false,
+      "Attack": true,
+      "Jump": true,
+      "Chorus": true,
+      "Pearl": true,
+      "RubberBand": true,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 0.5
+    }
+  },
+  "Fireworks": {
+    "enabled": false,
+    "settings": {
+      "AntiWaste": true,
+      "Boost": false,
+      "WithElytraFly": true,
+      "BoostFactor": 1.0,
+      "AutoLaunch": true,
+      "OnlyElytraFly": false,
+      "OnlyFirst": false,
+      "Await": true,
+      "Delay": 0.0,
+      "FastLaunch": true,
+      "Ticks": 9,
+      "Flight": false,
+      "Horizontal": 1.0,
+      "Vertical": 0.2
+    }
+  },
+  "FishTrap": {
+    "enabled": false,
+    "settings": {
+      "Delay": 50,
+      "BPT": 8,
+      "AirPlace": false,
+      "StrictDirection": false,
+      "Raytrace": false,
+      "OnlyObby": false,
+      "Rotate": false,
+      "Range": 5.0,
+      "Sequential": false,
+      "AntiStep": false,
+      "IgnoreNakeds": false,
+      "Extrapolation": 0,
+      "Attack": true,
+      "Jump": true,
+      "Chorus": false,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": false,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "Flight": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Vanilla",
+      "Speed": 0.8,
+      "Vertical": false,
+      "VSpeed": 0.4,
+      "Glide": 0.0,
+      "AntiKick": "None",
+      "Accelerate": false,
+      "AccelMin": 0.2,
+      "AccelTime": 1.9
+    }
+  },
+  "FreeLook": {
+    "enabled": false
+  },
+  "Freecam": {
+    "enabled": false,
+    "settings": {
+      "Speed": 0.6,
+      "VerticalSpeed": 0.6,
+      "NoHands": true,
+      "Rotate": false,
+      "Always": false
+    }
+  },
+  "Glint": {
+    "enabled": false
+  },
+  "HUD": {
+    "enabled": true,
+    "settings": {
+      "HudEditor": false,
+      "Icons": "Hide",
+      "SmoothWidth": true,
+      "SafeX": 1,
+      "SafeY": 1,
+      "Fade": "None",
+      "FadeOffset": 12,
+      "ColorAmount": 4,
+      "FadeSpeed": 25,
+      "MixColors": true
+    }
+  },
+  "Heaven": {
+    "enabled": false
+  },
+  "HighJump": {
+    "enabled": false,
+    "settings": {
+      "Strength": 1.0,
+      "InMovement": true
+    }
+  },
+  "Highlight": {
+    "enabled": true,
+    "settings": {
+      "Complex": false,
+      "Unreachable": false,
+      "LineWidth": 1.0
+    }
+  },
+  "HitboxDesync": {
+    "enabled": false
+  },
+  "Hitmarker": {
+    "enabled": false,
+    "settings": {
+      "Draw": true,
+      "Length": 3.5,
+      "Time": 0.5,
+      "FadeTime": 0.5,
+      "Sound": true,
+      "Type": {
+        "name": "neverlose",
+        "category": "system"
+      },
+      "Volume": 0.5,
+      "Animals": false,
+      "Hostiles": true,
+      "Players": true,
+      "Crystals": false
+    }
+  },
+  "HoleESP": {
+    "enabled": true,
+    "settings": {
+      "Fill": "Gradient",
+      "LineWidth": 1.0,
+      "Height": 0.0,
+      "Radius": 16,
+      "HideOwn": false,
+      "Fade": true,
+      "FadeRadius": 14.5,
+      "Trapped": false
+    }
+  },
+  "HoleFill": {
+    "enabled": false,
+    "settings": {
+      "Delay": 0,
+      "BPT": 3,
+      "StrictDirection": true,
+      "Raytrace": false,
+      "Rotate": false,
+      "Whitelist": [
+        "obsidian",
+        "ender_chest"
+      ],
+      "Doubles": true,
+      "Mode": "Smart",
+      "SmartRange": 1.7,
+      "Range": 4.5,
+      "VerticalRange": 3.0,
+      "OnlySafe": false,
+      "SelfSafety": false,
+      "IgnoreNakeds": false,
+      "MultiTask": true,
+      "Self": true,
+      "Extrapolation": true,
+      "Ticks": 4,
+      "Attack": true,
+      "Jump": false,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "HoleSnap": {
+    "enabled": false,
+    "settings": {
+      "AutoDisable": false,
+      "Directional": true,
+      "Shift": true,
+      "PauseStep": false,
+      "Height": 6.0,
+      "Timeout": 0.0,
+      "Range": 3.0,
+      "Speed": 1.3,
+      "Pitch": 0.0
+    }
+  },
+  "IRC": {
+    "enabled": true,
+    "settings": {
+      "Capes": false,
+      "Gradient": false,
+      "Chat": true,
+      "Prefix": "@",
+      "ChatSound": false,
+      "C-SoundMode": {
+        "name": "steam",
+        "category": "system"
+      },
+      "C-SoundVolume": 0.5,
+      "Pings": true,
+      "Info": "Distance",
+      "PingSound": true,
+      "P-SoundMode": {
+        "name": "css",
+        "category": "system"
+      },
+      "P-SoundVolume": 0.5
+    }
+  },
+  "IllegalDisconnect": {
+    "enabled": false,
+    "settings": {
+      "IgnoreProxy": true
+    }
+  },
+  "InventoryCleaner": {
+    "enabled": false,
+    "settings": {
+      "Whitelist": [
+        "sand",
+        "carrot",
+        "arrow",
+        "bone",
+        "cooked_cod",
+        "rotten_flesh",
+        "string",
+        "stick",
+        "cactus"
+      ],
+      "Selection": "WhiteList",
+      "Delay": 100,
+      "Frequency": 1,
+      "OnlyUI": false,
+      "IgnoreHotbar": false
+    }
+  },
+  "InventoryTweaks": {
+    "enabled": false,
+    "settings": {
+      "FastMove": false,
+      "OnlyContainer": false,
+      "FastArmor": false,
+      "XCarryTweaks": true
+    }
+  },
+  "ItemSaver": {
+    "enabled": false
+  },
+  "Jesus": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Solid",
+      "Strict": true,
+      "Ascending": 1.0
+    }
+  },
+  "KeyPearl": {
+    "enabled": false,
+    "settings": {
+      "NoEntityTrace": true,
+      "Solid": true,
+      "DisableOnElytra": true,
+      "DisableOnRiding": false
+    }
+  },
+  "KillEffects": {
+    "enabled": true,
+    "settings": {
+      "KillSound": true,
+      "KillSoundPlayers": true,
+      "KillSoundPlayersSound": {
+        "name": "shield",
+        "category": "smoked"
+      },
+      "KillSoundPlayersVolume": 1.0,
+      "KillSoundSelf": false,
+      "KillSoundSelfSound": {
+        "name": "bodysplat",
+        "category": "system"
+      },
+      "KillSoundSelfVolume": 1.0,
+      "KillStreak": false,
+      "KillStreakSoundVolume": 0.4,
+      "Thunder": true,
+      "Lightnings": 3,
+      "ThunderSelf": false,
+      "IgnoreNakeds": false,
+      "Ashes": false,
+      "AshesSelf": false,
+      "AutoEZ": false,
+      "Delay": 0.0,
+      "AutoEZPath": "autoez.txt",
+      "AutoEZRandom": true,
+      "AutoEZRefresh": false
+    }
+  },
+  "LogoutSpots": {
+    "enabled": true,
+    "settings": {
+      "Distance": 128.0,
+      "Model": "Complex",
+      "Textured": true,
+      "Alpha": 0.8,
+      "Width": 1.0,
+      "Tracer": false,
+      "NameTag": true,
+      "TextScale": 1.0,
+      "Position": "None",
+      "Time": false,
+      "Health": false,
+      "Totems": true,
+      "Sounds": true,
+      "Login": true,
+      "LoginSoundPath": {
+        "name": "steam",
+        "category": "system"
+      },
+      "Logout": true,
+      "LogoutSoundPath": {
+        "name": "steam",
+        "category": "system"
+      },
+      "IgnoreFriends": false,
+      "IgnoreNakeds": false
+    }
+  },
+  "LongJump": {
+    "enabled": false,
+    "settings": {
+      "JumpSpeed": 1.5,
+      "InLiquid": true,
+      "UseTimer": true,
+      "AutoDisable": true
+    }
+  },
+  "Mainhand": {
+    "enabled": false,
+    "settings": {
+      "Slot": 9,
+      "Delay": 0,
+      "AutoSelect": false,
+      "SwapDelay": 25,
+      "Lethal": true,
+      "Health": 8.0,
+      "GappleBind": true,
+      "Safe": 8.0
+    }
+  },
+  "MiddleClick": {
+    "enabled": true,
+    "settings": {
+      "Friends": false,
+      "Fireworks": true,
+      "Alternative": false
+    }
+  },
+  "MultiTask": {
+    "enabled": true
+  },
+  "NameProtect": {
+    "enabled": false,
+    "settings": {
+      "Name": "Me",
+      "Skin": true,
+      "Slim": true
+    }
+  },
+  "NameTags": {
+    "enabled": true,
+    "settings": {
+      "Range": 300,
+      "Scale": 1.0,
+      "Dead": true,
+      "Name": true,
+      "Ping": true,
+      "Health": true,
+      "HealthColor": true,
+      "Gamemode": false,
+      "ItemName": true,
+      "Armor": true,
+      "Durability": "Show",
+      "Items": true,
+      "ShowEating": true,
+      "Enchants": false,
+      "HideMax": false,
+      "TotemPops": true,
+      "MioCheck": true,
+      "Friend": true,
+      "Enemy": true,
+      "Smart": false
+    }
+  },
+  "NewChunks": {
+    "enabled": false,
+    "settings": {
+      "Palette": false,
+      "Distance": 12,
+      "Height": 0,
+      "Blocks": 6,
+      "LineWidth": 1.5,
+      "New": true,
+      "Old": true,
+      "1.12": true,
+      "Overflow": false,
+      "IgnoreOwn": false,
+      "OverflowBlocks": 1,
+      "Dungeons": true,
+      "Tracer": false,
+      "Sound": false,
+      "Path": {
+        "name": "warning",
+        "category": "system"
+      },
+      "Volume": 1.0
+    }
+  },
+  "NoBob": {
+    "enabled": true,
+    "settings": {
+      "Multiplier": 0.0
+    }
+  },
+  "NoFall": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Packet",
+      "GroundDistance": 2.0
+    }
+  },
+  "NoGlitchBlocks": {
+    "enabled": false,
+    "settings": {
+      "Place": true,
+      "Break": true
+    }
+  },
+  "NoHitDelay": {
+    "enabled": false
+  },
+  "NoInteract": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Cancel",
+      "OnlyFood": true
+    }
+  },
+  "NoJumpDelay": {
+    "enabled": true
+  },
+  "NoMineAnimation": {
+    "enabled": true
+  },
+  "NoNarrator": {
+    "enabled": true
+  },
+  "NoPacketKick": {
+    "enabled": true,
+    "settings": {
+      "Message": false
+    }
+  },
+  "NoRender": {
+    "enabled": true,
+    "settings": {
+      "HurtCam": true,
+      "Potions": true,
+      "Darkness": true,
+      "Blindness": true,
+      "NewSneaking": false,
+      "TotemOverlay": true,
+      "Hands": false,
+      "HandsOpacity": 0.7,
+      "MessageIndicator": true,
+      "UnsecureServer": true,
+      "TutorialToast": true,
+      "TextShadow": false,
+      "BossBars": true,
+      "ScoreBoard": false,
+      "TabIcons": false,
+      "HeldTooltips": true,
+      "Tint": false,
+      "Explosions": true,
+      "WorldBorder": true,
+      "SkyLight": true,
+      "Fog": true,
+      "Range": 10.0,
+      "Sky": false,
+      "Particles": true,
+      "ParticleTypes": [],
+      "ParticleSelection": "WhiteList",
+      "NoBlockBreaking": true,
+      "Hurt": true,
+      "NameTags": false,
+      "Interpolation": false,
+      "Fire": true,
+      "Others": false,
+      "Armor": true,
+      "Opacity": 0.0,
+      "NoCluster": true,
+      "ClusterAlpha": 10,
+      "TileEntities": true,
+      "TileDistance": 16,
+      "IgnoreESP": true,
+      "Wardens": true,
+      "WardenDistance": 8,
+      "Entities": false,
+      "EntityTypes": [
+        "glow_item_frame",
+        "item_frame"
+      ],
+      "Removal": "Partial",
+      "EntitySelection": "Any"
+    }
+  },
+  "NoRotate": {
+    "enabled": true,
+    "settings": {
+      "InBlocks": false,
+      "StopInWebs": true
+    }
+  },
+  "NoSlow": {
+    "enabled": true,
+    "settings": {
+      "GuiMove": true,
+      "Portals": true,
+      "Items": true,
+      "Sneak": false,
+      "Crawl": false,
+      "Mode": "None",
+      "StrictInventory": false,
+      "MultiTask": false,
+      "Ice": false,
+      "Slime": false,
+      "NoSlimeBounce": true,
+      "SoulSand": false,
+      "Honey": false,
+      "BerryBush": false
+    }
+  },
+  "Notifications": {
+    "enabled": true,
+    "settings": {
+      "Modules": true,
+      "TotemPops": true,
+      "Self": false,
+      "SayChat": false,
+      "Path": "totempop.txt",
+      "Delay": 0.0,
+      "Random": true,
+      "Refresh": false
+    }
+  },
+  "Nuker": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Shulkers",
+      "Shape": "Sphere",
+      "Sort": "Closest",
+      "Delay": 0,
+      "Range": 5.0,
+      "WallRange": 5.5,
+      "StrictDirection": false,
+      "Rotate": true,
+      "Creative": false,
+      "Flatten": false,
+      "BaritoneArea": false,
+      "Whitelist": [
+        "purple_shulker_box",
+        "light_blue_shulker_box",
+        "white_shulker_box",
+        "gray_shulker_box",
+        "stone",
+        "lime_shulker_box",
+        "yellow_shulker_box",
+        "magenta_shulker_box",
+        "orange_shulker_box",
+        "cyan_shulker_box",
+        "red_shulker_box",
+        "black_shulker_box",
+        "blue_shulker_box",
+        "light_gray_shulker_box",
+        "shulker_box",
+        "pink_shulker_box",
+        "cobweb",
+        "brown_shulker_box",
+        "green_shulker_box"
+      ]
+    }
+  },
+  "ObstaclePasser": {
+    "enabled": false,
+    "settings": {
+      "Align": false,
+      "OnlyLoaded": true,
+      "Y": -1,
+      "MaxTravel": 12
+    }
+  },
+  "Offhand": {
+    "enabled": true,
+    "settings": {
+      "Item": "Totem",
+      "Delay": 0,
+      "Health": 19.8,
+      "Lethal": true,
+      "1.17+": true,
+      "Containers": false,
+      "GappleBind": true,
+      "SafeHealth": 20.0,
+      "Pickaxe": true,
+      "Crystals": false,
+      "Totems": true,
+      "Crapple": false,
+      "Custom": []
+    }
+  },
+  "PMSound": {
+    "enabled": true,
+    "settings": {
+      "Type": {
+        "name": "vk",
+        "category": "system"
+      },
+      "Volume": 1.0
+    }
+  },
+  "Particles": {
+    "enabled": true,
+    "settings": {
+      "Totems": true,
+      "TotemsScale": 1.7,
+      "TotemsVelocity": 2.9,
+      "IgnoreSelf": true,
+      "Rockets": true,
+      "RocketScale": 1.0,
+      "Damage": false,
+      "DamageScale": 1.0,
+      "DamageVelocity": 1.0,
+      "Portal": false,
+      "PortalScale": 1.0,
+      "Dust": false
+    }
+  },
+  "Phase": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Pearl",
+      "Auto": false,
+      "Delay": 1.0,
+      "NCP": true,
+      "Always": false,
+      "Attack": true,
+      "Place": false,
+      "1.21": false
+    }
+  },
+  "PhaseESP": {
+    "enabled": false,
+    "settings": {
+      "Outline": false,
+      "Alpha": 1.0
+    }
+  },
+  "PingSpoof": {
+    "enabled": false,
+    "settings": {
+      "Delay": 1844,
+      "Jitter": 0
+    }
+  },
+  "PortalGodMode": {
+    "enabled": false
+  },
+  "Pusher": {
+    "enabled": false,
+    "settings": {
+      "Range": 5.0,
+      "Delay": 50,
+      "StrictDirection": true,
+      "Rotate": true,
+      "Raytrace": false,
+      "MultiTask": true,
+      "AutoDisable": true,
+      "IgnoreNaked": false,
+      "OnlySafe": false,
+      "OnlyHole": true,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "RaytraceBypass": {
+    "enabled": false,
+    "settings": {
+      "Always": false,
+      "Rotations": "Motion",
+      "Keep": 1,
+      "Delay": 800,
+      "Offset": 15,
+      "Resolver": true,
+      "BruteOffset": 2.0,
+      "Iterations": 2,
+      "BruteStep": 15.0,
+      "BasePitch": 5.0,
+      "Backup": true,
+      "BackUpPitch": -40.0
+    }
+  },
+  "Reach": {
+    "enabled": true,
+    "settings": {
+      "Modifier": 3.6,
+      "LiquidPlace": true,
+      "GhostHand": true,
+      "Boats": false,
+      "AirPlace": true,
+      "Grim": false,
+      "NoEntityTrace": false,
+      "Pickaxe": true,
+      "Food": false,
+      "Crystals": false,
+      "All": true
+    }
+  },
+  "Replenish": {
+    "enabled": true,
+    "settings": {
+      "Items": [
+        "end_crystal",
+        "totem_of_undying",
+        "experience_bottle",
+        "enchanted_golden_apple"
+      ],
+      "Selection": "Any",
+      "Delay": 200,
+      "Threshold": 32,
+      "Sort": false,
+      "Unstackable": true,
+      "Motion": false,
+      "Falling": false
+    }
+  },
+  "RocketExtender": {
+    "enabled": false,
+    "settings": {
+      "Timeout": 58.0,
+      "Hold": false
+    }
+  },
+  "RotationLock": {
+    "enabled": false,
+    "settings": {
+      "Yaw": true,
+      "Custom": false,
+      "YawValue": 0.0,
+      "Pitch": false,
+      "PitchValue": 0.0
+    }
+  },
+  "SafeWalk": {
+    "enabled": false,
+    "settings": {
+      "Sneak": true,
+      "Delay": 93
+    }
+  },
+  "Scaffold": {
+    "enabled": false,
+    "settings": {
+      "Selection": "Any",
+      "Blocks": [],
+      "Swap": "Silent",
+      "Delay": 0,
+      "Offset": 0,
+      "Tower": true,
+      "SafeWalk": false,
+      "AirPlace": false,
+      "StrictDirection": false,
+      "Telly": false,
+      "Rotate": true,
+      "StopSprinting": false,
+      "Attack": true,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "Search": {
+    "enabled": false,
+    "settings": {
+      "Whitelist": [
+        "chest",
+        "shulker_box",
+        "nether_portal",
+        "ender_chest"
+      ],
+      "EntityTypes": [],
+      "Entities": false,
+      "IgnoreNeg": false,
+      "Fill": true,
+      "FillOpacity": 0.1,
+      "Outline": true,
+      "Tracers": true,
+      "TracerOpacity": 0.2,
+      "Sound": false,
+      "Type": {
+        "name": "warning",
+        "category": "system"
+      },
+      "Volume": 1.0,
+      "IgnoreNatural": false,
+      "Dungeon": true,
+      "Fortress": true,
+      "Bastion": true,
+      "AncientCity": false,
+      "TrialChambers": true
+    }
+  },
+  "SelfFill": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Any",
+      "Rotate": true,
+      "Persistent": false,
+      "JumpDisable": true,
+      "Whitelist": [
+        "cobweb"
+      ],
+      "Attack": true,
+      "NoLagBack": false
+    }
+  },
+  "SelfTrap": {
+    "enabled": false,
+    "settings": {
+      "Delay": 1,
+      "BPT": 3,
+      "AirPlace": false,
+      "StrictDirection": true,
+      "Raytrace": false,
+      "OnlyObby": false,
+      "Rotate": true,
+      "Sequential": true,
+      "Head": false,
+      "Face": true,
+      "Legs": false,
+      "OnlyHole": false,
+      "Smart": false,
+      "EnemyRange": 3.0,
+      "Attack": true,
+      "Complete": false,
+      "Jump": true,
+      "Chorus": false,
+      "Pearl": false,
+      "RubberBand": false,
+      "Render": true,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "SelfWeb": {
+    "enabled": false,
+    "settings": {
+      "Rotate": true,
+      "AutoDisable": false,
+      "OnlyHole": false,
+      "Smart": false,
+      "EnemyRange": 3.0,
+      "Aggressive": true
+    }
+  },
+  "Shader": {
+    "enabled": true,
+    "settings": {
+      "Shader": "Solid",
+      "Range": 128,
+      "LineWidth": 2,
+      "FastLines": true,
+      "Glow": 1.0,
+      "Quality": 1,
+      "Step": 0.1,
+      "Speed": 0.5,
+      "FillSpeed": 0.0,
+      "OutlineSpeed": 0.8,
+      "FillStrength": 0.9,
+      "OutlineStrength": 2.0,
+      "Image": false,
+      "OverlayAlpha": 0.85,
+      "Type": "None",
+      "DecoratorRadius": 5,
+      "DecoratorAlpha": 1.0,
+      "Hands": true,
+      "HandsFill": true,
+      "HandsOutline": true,
+      "Crystals": true,
+      "CrystalRange": 60,
+      "Items": true,
+      "ItemRange": 60,
+      "Animals": false,
+      "Hostiles": false,
+      "Players": true,
+      "Self": true,
+      "Exp": false,
+      "Pearls": true,
+      "Minecarts": false,
+      "Dead": false
+    }
+  },
+  "Skeleton": {
+    "enabled": false
+  },
+  "SkinFlicker": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Full",
+      "Cape": false,
+      "Delay": 1.0
+    }
+  },
+  "SkyColor": {
+    "enabled": false,
+    "settings": {
+      "Type": "None",
+      "Dense": false,
+      "Overworld": true,
+      "Nether": true,
+      "End": true
+    }
+  },
+  "SoundBlocker": {
+    "enabled": false,
+    "settings": {
+      "Sounds": []
+    }
+  },
+  "Spammer": {
+    "enabled": false,
+    "settings": {
+      "Path": "ego.txt",
+      "Delay": 13.4,
+      "Refresh": false,
+      "SmartDelay": true,
+      "Random": true,
+      "AutoOff": false
+    }
+  },
+  "Speed": {
+    "enabled": false,
+    "settings": {
+      "Mode": "StrafeStrict",
+      "Speed": 1.0,
+      "Boost": false,
+      "InLiquid": false,
+      "UseTimer": true,
+      "PauseInBlocks": false
+    }
+  },
+  "SpeedMine": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Any",
+      "Damage": 1.0,
+      "Range": 6.0,
+      "ExtraBreak": false,
+      "TPSSync": false,
+      "Swing": true,
+      "Rebreak": "Fast",
+      "Assistant": false,
+      "InstantDelay": 0.1,
+      "ClickReset": true,
+      "HoldingBest": false,
+      "AutoSwap": "Silent",
+      "SwapBack": true,
+      "1.21": "Tick",
+      "Alternative": true,
+      "SwapReset": false,
+      "Rotate": true,
+      "Limit": 0.8,
+      "Render": true,
+      "LineWidth": 1.0,
+      "RenderMode": "Out",
+      "Air": false,
+      "Fade": true,
+      "ColorMode": "Custom",
+      "Blocks": [
+        "obsidian",
+        "ender_chest"
+      ]
+    }
+  },
+  "Sprint": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Instant",
+      "ForceSprint": true,
+      "VanillaSlowdown": false,
+      "Boost": false,
+      "BoostSpeed": 0.3,
+      "StopInLiquids": true,
+      "DirectionSpoof": false,
+      "Keep": true
+    }
+  },
+  "StashFinder": {
+    "enabled": false,
+    "settings": {
+      "Chests": true,
+      "ChestCount": 6,
+      "Shulkers": true,
+      "StackedCarts": true,
+      "Notify": true,
+      "CensorCoords": false,
+      "Log": true,
+      "Sound": true,
+      "Type": {
+        "name": "warning",
+        "category": "system"
+      },
+      "Volume": 1.0,
+      "IgnoreNatural": false,
+      "Dungeon": true,
+      "Fortress": true,
+      "Bastion": true,
+      "AncientCity": false,
+      "TrialChambers": true
+    }
+  },
+  "Step": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Normal",
+      "Height": 2.0,
+      "SafeDisable": false,
+      "UseTimer": true,
+      "TimerSpeed": 0.365
+    }
+  },
+  "Swing": {
+    "enabled": true,
+    "settings": {
+      "Hand": "Mainhand",
+      "Type": "1.8",
+      "Speed": 0.3
+    }
+  },
+  "Timer": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Disable",
+      "Physics": true,
+      "Shift": 10.0,
+      "PulseMin": 1.0,
+      "PulseMax": 1.004,
+      "MinDelay": 0.3,
+      "MaxDelay": 0.5,
+      "DisableDelay": 0.01
+    }
+  },
+  "Tooltips": {
+    "enabled": true,
+    "settings": {
+      "Colored": true,
+      "MajorityItem": false,
+      "KeepText": false,
+      "ShulkerContent": true,
+      "BeeNest": false,
+      "MapOverlay": true,
+      "Size": false
+    }
+  },
+  "Tracers": {
+    "enabled": false,
+    "settings": {
+      "Hitbox": "Legs",
+      "MaxDistance": 256.0,
+      "LineWidth": 1.0,
+      "Stem": true,
+      "DistanceColor": true,
+      "EnemyColor": true,
+      "IgnoreFriends": false,
+      "IgnoreNakeds": false
+    }
+  },
+  "Trails": {
+    "enabled": false,
+    "settings": {
+      "Render": true,
+      "Delay": 0.0,
+      "Self": true,
+      "Players": true,
+      "Pearls": true,
+      "Arrows": false,
+      "Exp": false,
+      "LineWidth": 1.6,
+      "Fade": true,
+      "FadeDelay": 1.0,
+      "FadeDuration": 0.5,
+      "Rainbow": false,
+      "Threshold": 0.10000000149011612
+    }
+  },
+  "Trajectories": {
+    "enabled": false,
+    "settings": {
+      "OnlyOwn": true,
+      "Predict": true,
+      "Airborne": false,
+      "LineWidth": 1.6,
+      "Bow": true,
+      "XBow": true,
+      "Trident": true,
+      "Pearls": true,
+      "Exp": true,
+      "Others": true
+    }
+  },
+  "Trident": {
+    "enabled": false,
+    "settings": {
+      "Always": false,
+      "OnlyLoaded": false,
+      "Boost": 1.0,
+      "Delay": 3
+    }
+  },
+  "Tunnels": {
+    "enabled": false,
+    "settings": {
+      "Verticals": false,
+      "LineWidth": 1.0,
+      "Height": 2.0,
+      "MinLength": 4
+    }
+  },
+  "UI": {
+    "enabled": false,
+    "settings": {
+      "Reset": false,
+      "MSAA": "X4",
+      "Descriptions": true,
+      "Delay": 0,
+      "ConstantReset": false,
+      "ButtonHeight": 2,
+      "FrameWidth": 6,
+      "ModulePadding": 3,
+      "AnimSpeed": 0.8,
+      "GuiScale": 1.0,
+      "Line": true,
+      "Binds": false,
+      "Gear": false,
+      "WindowShadow": false,
+      "ShadowSize": 5.0,
+      "Hover": true,
+      "HoverSound": {
+        "name": "hover",
+        "category": "system"
+      },
+      "HoverVolume": 0.5,
+      "LeftClick": true,
+      "LeftClickSound": {
+        "name": "click",
+        "category": "system"
+      },
+      "LeftClickVolume": 0.5,
+      "RightClick": true,
+      "RightClickSound": {
+        "name": "rclick",
+        "category": "system"
+      },
+      "RightClickVolume": 0.5,
+      "Bounce": true
+    }
+  },
+  "UnfocusedFPS": {
+    "enabled": false,
+    "settings": {
+      "FPS": 2
+    }
+  },
+  "Velocity": {
+    "enabled": true,
+    "settings": {
+      "Mode": "Plain",
+      "Horizontal": 0,
+      "Vertical": 0,
+      "Inverse": false,
+      "Explosions": true,
+      "Push": true,
+      "Liquids": false
+    }
+  },
+  "ViewClip": {
+    "enabled": true,
+    "settings": {
+      "Range": 4.0,
+      "Smooth": true
+    }
+  },
+  "ViewModel": {
+    "enabled": false,
+    "settings": {
+      "Adjust": false,
+      "Shadow": true,
+      "NoSway": false,
+      "InstantSwap": false,
+      "Eating": true,
+      "Arm": false,
+      "MainX": 0.0,
+      "MainY": 0.0,
+      "MainZ": 0.0,
+      "MainScaleX": 0.7,
+      "MainScaleY": 0.7,
+      "MainScaleZ": 0.7,
+      "MainRotateX": 0.0,
+      "MainRotateY": 0.0,
+      "MainRotateZ": 0.0,
+      "OffX": 0.0,
+      "OffY": 0.0,
+      "OffZ": 0.0,
+      "OffScaleX": 0.7,
+      "OffScaleY": 0.7,
+      "OffScaleZ": 0.7,
+      "OffRotateX": 0.0,
+      "OffRotateY": 0.0,
+      "OffRotateZ": 0.0,
+      "EatMultiplier": 0.2,
+      "NoTridentAnim": false,
+      "SwingProgress": false,
+      "Static": true,
+      "SwingMainHand": true,
+      "SwingProgressAmount": 0.0,
+      "SwingOffHand": false,
+      "SwingProgressAmountOffHand": 1.0,
+      "ViewModelFov": false,
+      "FovAmount": 90
+    }
+  },
+  "VisualRange": {
+    "enabled": true,
+    "settings": {
+      "Join": true,
+      "Leave": true,
+      "Players": true,
+      "Friends": false,
+      "Enemies": true,
+      "Nakeds": false,
+      "Signs": false,
+      "EnderPearls": false,
+      "PlaySound": true,
+      "OnlyEnemies": false,
+      "Sound": {
+        "name": "icq",
+        "category": "system"
+      },
+      "Volume": 1.0
+    }
+  },
+  "VoidESP": {
+    "enabled": false,
+    "settings": {
+      "LineWidth": 1.0,
+      "Height": 0.1,
+      "Radius": 8,
+      "Fade": true,
+      "FadeRadius": 6.5
+    }
+  },
+  "Warp": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Plain",
+      "Boost": 6,
+      "Charge": 19,
+      "ChargeSpeed": 1,
+      "Recharge": "Hold",
+      "FakeLag": false,
+      "DisableGround": false,
+      "LimitPackets": false,
+      "AutoDisable": false
+    }
+  },
+  "Waypoints": {
+    "enabled": false,
+    "settings": {
+      "Distance": 101.0,
+      "LineWidth": 1.0,
+      "Box": false,
+      "Beam": true,
+      "Tracers": false,
+      "Name": true,
+      "Info": "Distance",
+      "TextScale": 1.2,
+      "TextBackground": true,
+      "EyesAlign": true,
+      "BeamAlpha": 40
+    }
+  },
+  "WebAura": {
+    "enabled": false,
+    "settings": {
+      "Delay": 20,
+      "BPT": 1,
+      "AirPlace": true,
+      "StrictDirection": true,
+      "Raytrace": false,
+      "Rotate": true,
+      "Range": 4.5,
+      "MultiTask": false,
+      "IgnoreNakeds": false,
+      "OnlyFish": false,
+      "SelfSafety": false,
+      "Extrapolation": true,
+      "Ticks": 3,
+      "Head": false,
+      "Legs": true,
+      "RubberBand": false,
+      "Render": false,
+      "LineWidth": 1.0,
+      "Fade": true,
+      "FadeTime": 1.0
+    }
+  },
+  "XCarry": {
+    "enabled": false
+  },
+  "Xray": {
+    "enabled": false,
+    "settings": {
+      "Bypass": false,
+      "Whitelist": [
+        "andesite",
+        "lapis_ore",
+        "deepslate_emerald_ore",
+        "emerald_ore",
+        "nether_quartz_ore"
+      ]
+    }
+  },
+  "Zoom": {
+    "enabled": false,
+    "settings": {
+      "Smooth": true,
+      "SmoothCamera": true,
+      "Scroll": false,
+      "Amount": 2
+    }
+  }
+}

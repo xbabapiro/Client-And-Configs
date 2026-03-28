@@ -1,0 +1,1836 @@
+{
+  "client": "mio-fabric",
+  "category": "colors",
+  "Ambience": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "OcclusionColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "AnchorAura": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          255,
+          0,
+          228,
+          67
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          255,
+          0,
+          228,
+          67
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "AntiPearl": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "AntiPhase": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Aura": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          44
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          124
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "AutoCrystal": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          16
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          124
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "AutoDrop": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          8
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          91
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "AutoTrap": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Baritone": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          0,
+          255,
+          239,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Goal": {
+        "rgba": [
+          255,
+          0,
+          163,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "BedAura": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          67
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "BetterChat": {
+    "settings": {
+      "TextColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "BracketsColor": {
+        "rgba": [
+          128,
+          128,
+          128,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "HighlightColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Blocker": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Borders": {
+    "settings": {
+      "Chunk": {
+        "rgba": [
+          255,
+          0,
+          0,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Map": {
+        "rgba": [
+          255,
+          0,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "BreakHighlight": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          207,
+          104,
+          252,
+          25
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          207,
+          104,
+          252,
+          126
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Chams": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          252,
+          104,
+          198,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          207,
+          104,
+          252,
+          126
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "ShineColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "PopFill": {
+        "rgba": [
+          207,
+          104,
+          252,
+          128
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "PopLine": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "ChorusControl": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          26
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          182
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Colors": {
+    "settings": {
+      "ThemeColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "FriendColor": {
+        "rgba": [
+          68,
+          192,
+          235,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "EnemyColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Crosshair": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "ESP": {
+    "settings": {
+      "HostilesFill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          21
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "HostilesOutline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "PlayersFill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          21
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "PlayersOutline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "AnimalsFill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          21
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "AnimalsOutline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          21
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "ItemsText": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Background": {
+        "rgba": [
+          10,
+          10,
+          10,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "ItemsFill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          21
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "ItemsOutline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          201
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "ExpFill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          21
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "ExpOutline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "ChorusText": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "ExtraTab": {
+    "settings": {
+      "Self": {
+        "rgba": [
+          255,
+          0,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "FakeLag": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          80
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          70
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "FeetPlace": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          16
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          91
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "FishTrap": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          27
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          127
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Glint": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "HUD": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          252,
+          104,
+          198,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "SecondColor": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color1": {
+        "rgba": [
+          138,
+          0,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color2": {
+        "rgba": [
+          255,
+          0,
+          162,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color3": {
+        "rgba": [
+          138,
+          0,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color4": {
+        "rgba": [
+          255,
+          0,
+          162,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color5": {
+        "rgba": [
+          138,
+          0,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color6": {
+        "rgba": [
+          255,
+          0,
+          162,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color7": {
+        "rgba": [
+          138,
+          0,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color8": {
+        "rgba": [
+          255,
+          0,
+          162,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color9": {
+        "rgba": [
+          138,
+          0,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Highlight": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          189,
+          153,
+          255,
+          190
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "FillColor": {
+        "rgba": [
+          189,
+          153,
+          255,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Hitmarker": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "OutlineColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "HoleESP": {
+    "settings": {
+      "TrappedFill": {
+        "rgba": [
+          236,
+          205,
+          0,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "TrappedOutline": {
+        "rgba": [
+          255,
+          242,
+          0,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "SafeFill": {
+        "rgba": [
+          252,
+          104,
+          198,
+          28
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "SafeOutline": {
+        "rgba": [
+          252,
+          104,
+          198,
+          72
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "UnsafeFill": {
+        "rgba": [
+          144,
+          76,
+          237,
+          30
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "UnsafeOutline": {
+        "rgba": [
+          144,
+          76,
+          237,
+          98
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "HoleFill": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          8
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          91
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "KillEffects": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "LogoutSpots": {
+    "settings": {
+      "ModelFill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "ModelLine": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "BoxFill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          60
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "BoxLine": {
+        "rgba": [
+          163,
+          99,
+          252,
+          230
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "NameTagColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          238
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "FillColor": {
+        "rgba": [
+          10,
+          10,
+          10,
+          77
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "NameTags": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          10,
+          10,
+          10,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          252,
+          0,
+          97,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Text": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Invisibles": {
+        "rgba": [
+          255,
+          0,
+          0,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Sneak": {
+        "rgba": [
+          255,
+          145,
+          0,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Eating": {
+        "rgba": [
+          0,
+          255,
+          0,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "NewChunks": {
+    "settings": {
+      "NewFill": {
+        "rgba": [
+          255,
+          0,
+          49,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "NewLine": {
+        "rgba": [
+          255,
+          16,
+          0,
+          84
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "OldFill": {
+        "rgba": [
+          0,
+          255,
+          109,
+          13
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "OldLine": {
+        "rgba": [
+          0,
+          255,
+          109,
+          84
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "1.12Fill": {
+        "rgba": [
+          255,
+          255,
+          0,
+          10
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "1.12Line": {
+        "rgba": [
+          255,
+          255,
+          0,
+          92
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "OverflowFill": {
+        "rgba": [
+          0,
+          255,
+          255,
+          50
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "OverflowLine": {
+        "rgba": [
+          0,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "DungeonFill": {
+        "rgba": [
+          0,
+          255,
+          239,
+          50
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "DungeonLine": {
+        "rgba": [
+          0,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Notifications": {
+    "settings": {
+      "Watermark": {
+        "rgba": [
+          153,
+          201,
+          213,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Brackets": {
+        "rgba": [
+          150,
+          147,
+          147,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Primary": {
+        "rgba": [
+          255,
+          244,
+          244,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Secondary": {
+        "rgba": [
+          90,
+          237,
+          247,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Nuker": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          189,
+          153,
+          255,
+          60
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Particles": {
+    "settings": {
+      "TotemsColor1": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "TotemsColor2": {
+        "rgba": [
+          167,
+          7,
+          210,
+          203
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "RocketColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "DamageColor": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "PortalColor": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "From": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "To": {
+        "rgba": [
+          167,
+          7,
+          210,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "PhaseESP": {
+    "settings": {
+      "Safe": {
+        "rgba": [
+          255,
+          255,
+          255,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "SemiSafe": {
+        "rgba": [
+          255,
+          255,
+          255,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Unsafe": {
+        "rgba": [
+          163,
+          99,
+          252,
+          33
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Pusher": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          67
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          201
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Scaffold": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          8
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "SelfTrap": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          16
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          124
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Shader": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "FillSecond": {
+        "rgba": [
+          11,
+          126,
+          247,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "OutlineSecond": {
+        "rgba": [
+          207,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Skeleton": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          255,
+          89,
+          0,
+          255
+        ],
+        "rainbow": true,
+        "sync": false
+      }
+    }
+  },
+  "Skybox": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          252,
+          104,
+          198,
+          128
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "CloudsColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Fog": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Sky": {
+        "rgba": [
+          0,
+          14,
+          132,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Background": {
+        "rgba": [
+          51,
+          18,
+          132,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "SourceFill": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          189,
+          153,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          189,
+          153,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "SpeedMine": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          163,
+          99,
+          252,
+          27
+        ],
+        "rainbow": false,
+        "sync": true
+      },
+      "Outline": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Tracers": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Trails": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Trajectories": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          163,
+          99,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "Tunnels": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          156,
+          218,
+          238,
+          16
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          156,
+          218,
+          238,
+          84
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "UI": {
+    "settings": {
+      "TextColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "EnabledColor": {
+        "rgba": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Color": {
+        "rgba": [
+          127,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "BgColor": {
+        "rgba": [
+          63,
+          4,
+          126,
+          112
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "BgButton": {
+        "rgba": [
+          255,
+          255,
+          255,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "BgEnabled": {
+        "rgba": [
+          127,
+          104,
+          252,
+          255
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Tint": {
+        "rgba": [
+          207,
+          104,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "GradientColor": {
+        "rgba": [
+          163,
+          99,
+          252,
+          0
+        ],
+        "rainbow": false,
+        "sync": true
+      }
+    }
+  },
+  "VoidESP": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          255,
+          0,
+          0,
+          48
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Line": {
+        "rgba": [
+          255,
+          0,
+          0,
+          187
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "Waypoints": {
+    "settings": {
+      "Color": {
+        "rgba": [
+          189,
+          153,
+          255,
+          228
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  },
+  "WebAura": {
+    "settings": {
+      "Fill": {
+        "rgba": [
+          250,
+          247,
+          255,
+          8
+        ],
+        "rainbow": false,
+        "sync": false
+      },
+      "Outline": {
+        "rgba": [
+          250,
+          247,
+          255,
+          91
+        ],
+        "rainbow": false,
+        "sync": false
+      }
+    }
+  }
+}
